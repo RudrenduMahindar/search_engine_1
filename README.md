@@ -1,2 +1,2 @@
 # search_engine
-A mini search engine for local searches on a computer by using c++and qt
+A mini search engine for searching research papers by using c++ and qt
